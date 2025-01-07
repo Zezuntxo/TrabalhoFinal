@@ -24,3 +24,6 @@ Este trabalho tem como objetivo principal o desenvolvimento de uma aplicação e
 # __Implementação__
 
 ## __Estrutura de Pastas:__
+
+# __Conclusão:__
+Em suma, o desenvolvimento desta aplicação de futebol foi essencial para 
