@@ -20,6 +20,38 @@
 Este trabalho tem como objetivo principal o desenvolvimento de uma aplicação em kotlin, através do Android Studio. A ideia principal seria criar uma aplicação de futebol conectada diretamente a uma firebase e uma API de futebol. A firebase seria necessária para um sistema básico de login que permitiria os utilizadores criar uma conta na aplicação e acompanhar todos os jogos e clubes. A API seria responsável pelo fornecimento de todos os jogos, sendo eles em direto, já realizados ou por realizar. 
 
 # __Estrutura__
+
+```plaintext
+app
+├── manifests
+│   └── AndroidManifest.xml
+├── kotlin+java
+│   └── com.example.trabalhofinal
+│       ├── models
+│       │   ├── Match
+│       │   └── User
+│       ├── repositories
+│       │   ├── MatchRepository
+│       │   └── UserRepository
+│       └── ui
+│           └── theme
+│               ├── login
+│               │   ├── LoginView.kt
+│               │   └── LoginViewModel.kt
+│               ├── match
+│               │   ├── SavedView.kt
+│               │   └── SavedViewModel
+│               ├── profile
+│               │   ├── ProfileView.kt
+│               │   └── ProfileViewModel.kt
+│               ├── Color.kt
+│               ├── MatchView.kt
+│               ├── MatchViewModel
+│               ├── Theme.kt
+│               └── Type.kt
+└── MainActivity.kt
+```
+
 # __Funcionalidades__
 
 <a name="ModelodeDados"></a>
