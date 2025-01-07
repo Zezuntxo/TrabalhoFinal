@@ -10,9 +10,10 @@
 2. [__Estrutura do Projeto__](#Estrutura)
 3. [__Funcionalidades__](#Funcionalidades)
 4. [__Modelo de Dados__](#ModelodeDados)
-5. [__Interpretação do Código-Fonte__](#analise)
-6. [__Interpretação do Código-Fonte__](#analise)
-7. [__Conclusão__](#Conclusão)
+5. [__Implementação__](#Implementação)
+6. [__Tecnologias__](#Tecnologias)
+7. [__Dificuldades__](#Dificuldades)
+8. [__Conclusão__](#Conclusão)
 
 # __Introdução__
 
@@ -21,8 +22,9 @@ Este trabalho tem como objetivo principal o desenvolvimento de uma aplicação e
 # __Estrutura__
 # __Funcionalidades__
 # __Modelo de Dados__
-# __Estrutura__
-
+# __Implementação__
+# __Tecnologias__
+# __Dificuldades__
 
 
 # __Conclusão:__
