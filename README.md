@@ -78,11 +78,9 @@ app
     - **`MatchViewModel.kt`**: Gere e interage diretamente com a Firebase para obter e salvar os dados do Utilizador
 
 
-     
-
-
 # __Funcionalidades__
-
+  - Login e Registo:
+Permite o utlizador 
 
 
 <a name="ModelodeDados"></a>
